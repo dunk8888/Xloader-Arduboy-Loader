@@ -1,0 +1,3 @@
+Arduboy(Atmega32U4);m32u4;stk500;115200;
+Gamebuino(ATmega328);m328p;stk500;115200;
+
